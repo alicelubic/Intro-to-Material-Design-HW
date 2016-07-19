@@ -33,7 +33,7 @@ ntro to Material Design Homework - Responses
 
 3. It uses animations like having the drawer come out from the left, or like within the DEVELOP page, the visible screen is like one of those extended toolbars and then there is a floating down arrow button to take you to the actual content.
 
-4.
+4. The color scheme uses that green as it's primary color and a darker green on the menu icon and divider lines, and a blue accent for the title in the menu drawer of whichever page you are currently on.
 
 5.
 
